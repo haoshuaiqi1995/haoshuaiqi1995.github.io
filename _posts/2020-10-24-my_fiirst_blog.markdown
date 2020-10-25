@@ -42,7 +42,7 @@ date:   2020-10-24 12:12:12
 
 
 
-<div align="center"><img src="https://images.cnblogs.com/cnblogs_com/lutaishi/1869791/o_201025035151author.png"" height="167" width="503"><br/>(头像 作者 日期)</div>
+<div align="center"><img src="https://images.cnblogs.com/cnblogs_com/lutaishi/1869791/o_201025035151author.png"" height="167" width="503"/><br/>(头像 作者 日期)</div>
 
 ### typora的使用
 
