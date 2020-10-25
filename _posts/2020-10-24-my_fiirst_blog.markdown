@@ -1,7 +1,7 @@
 ---
-title:  "my first blog"
-subtitle: "this is subtitle"
-author: "lanlan"
+title:  "How to upload a blog to the website? "
+subtitle: "Newcomers must read carefully"
+author: "master lu"
 avatar: "img/authors/yanzu.jpg"
 image: "img/g.jpg"
 date:   2020-10-24 12:12:12
@@ -18,13 +18,6 @@ date:   2020-10-24 12:12:12
 
 
 - ### 文件开头的书写
-
-> title:  "my first blog"
-> subtitle: "this is subtitle"
-> author: "lanlan"
-> avatar: "img/authors/yanzu.jpg"
-> image: "img/g.jpg"
-> date:   2020-10-24 12:12:12
 
 参数介绍：
 
@@ -49,7 +42,7 @@ date:   2020-10-24 12:12:12
 
 
 
-<div align="center"><img src="https://images.cnblogs.com/cnblogs_com/lutaishi/1869791/o_201025035151author.png"><br/>(头像 作者 日期)</div>
+<div align="center"><img src="https://images.cnblogs.com/cnblogs_com/lutaishi/1869791/o_201025035151author.png"" height="167" width="503"><br/>(头像 作者 日期)</div>
 
 ### typora的使用
 
