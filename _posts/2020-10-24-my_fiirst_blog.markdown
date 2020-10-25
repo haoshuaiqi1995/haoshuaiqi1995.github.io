@@ -28,15 +28,20 @@ date:   2020-10-24 12:12:12
 
 参数介绍：
 
-title：博客题目
+- title：博客题目
 
-subtitle：博客子题目
 
-author:作者，直接手打就行
+- subtitle：博客子题目
 
-avatar：头像，输入图片文件路径
 
-image：封面路径
+- author:作者，直接手打就行
+
+
+- avatar：头像，输入图片文件路径
+
+
+- image：封面路径
+
 
 如下图所示：
 
